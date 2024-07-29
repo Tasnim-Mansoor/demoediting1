@@ -4,7 +4,7 @@ import 'bootstrap/dist/css/bootstrap.min.css';
 
 // API Model
 const api = axios.create({
-  baseURL: `https://ministries.obicbusiness.com/api/v1/app/ministries?api_pass_key=OzVWJLxQtxf4tOalF`,
+  baseURL: `https://ministries.obicbusiness.com/api/v1/app/ministries?api_pass_key=api_pass_key`,
   headers: {
     'api_pass_key': "OzVWJLxQtxf4tOalF",
   },
